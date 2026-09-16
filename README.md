@@ -1,3 +1,3 @@
 ## DIANE
-###AFRAME
+### AFRAME
 * [labyrinthe](./LABYRINTHE/aframe.html)
