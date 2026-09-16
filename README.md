@@ -1,3 +1,3 @@
 ## DN MADE2
 ##AFRAME
-* [labyrinthe](./LABYRINTHE.html)
+* [labyrinthe](./LABYRINTHE/aframe.html)
