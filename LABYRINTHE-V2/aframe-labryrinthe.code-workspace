@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "aframe",
+			"path": "."
+		},
+		{
+			"name": "Statue_v1_L3.123c62dc9d21-a754-4c46-a970-7f69d390e31e",
+			"path": "../../../../../../Downloads/Statue_v1_L3.123c62dc9d21-a754-4c46-a970-7f69d390e31e/Statue_v1_L3.123c62dc9d21-a754-4c46-a970-7f69d390e31e"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aframe"
+	}
+}
